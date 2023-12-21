@@ -1,7 +1,7 @@
 Hi there! 👋
 I'm Svetoslav Radoslavov Trifonov (Svet), a passionate sys admin and a developer with a keen interest in Artificial Intelligence. Welcome to my GitHub profile!
 
-About Me
+About Me:
 👨‍💻 I specialize in developing robust and scalable software solutions, ensuring seamless integration between applications and systems.
 
 🖥️ As a system administrator, I'm dedicated to maintaining the reliability and performance of IT infrastructures, implementing security measures, and optimizing processes.
