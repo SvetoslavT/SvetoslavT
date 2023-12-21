@@ -17,6 +17,6 @@ Get in Touch
 📫 Let's connect! Whether you have questions, want to collaborate, or just chat about AI and technology, reach out to me through LinkedIn.
 
 Happy Coding! 🚀
-Thank you for visiting my GitHub profile. Happy coding, and let's build some amazing things together!
+Thank you for visiting my GitHub profile. Happy coding, and let's build the new world together!
 
 Trifonov
