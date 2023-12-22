@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm Svetoslav Radoslavov Trifonov (Svet), a passionate sys admin and a developer with a keen interest in Artificial Intelligence. Welcome to my GitHub profile!
+I'm Svetoslav Radoslavov Trifonov (Svet), a passionate system admin and a developer with a keen interest in Artificial Intelligence. Welcome to my GitHub profile!
 
 About Me:
 👨‍💻 I specialize in developing robust and scalable software solutions, ensuring seamless integration between applications and systems.
@@ -17,6 +17,6 @@ Get in Touch
 📫 Let's connect! Whether you have questions, want to collaborate, or just chat about AI and technology, reach out to me through LinkedIn.
 
 Happy Coding! 🚀
-Thank you for visiting my GitHub profile. Happy coding, and let's build the new world together!
+Thank you for visiting my GitHub profile. Happy coding, and let's build the new tech world together!
 
 Trifonov
