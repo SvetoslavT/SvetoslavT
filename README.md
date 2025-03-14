@@ -1,4 +1,4 @@
- Hey there! I'm Svet, a sysadmin by day, dev by night, and AI explorer 24/7.
+ Hey there! I'm Svet!
  
  ⚡ I love automating stuff, building cool projects, and diving into machine learning.
  
